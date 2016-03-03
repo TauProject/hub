@@ -4,13 +4,15 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : 0,
     "2D9AF23C98015B8E5AD30839E90AB9A7C5170B63" : 0,
-    "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : 0
+    "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9775E884-090B-4F85-BF7F-6BA9EE5CF515",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : "TauProject\/Tau4Mac\/",
     "2D9AF23C98015B8E5AD30839E90AB9A7C5170B63" : "TauProject\/",
-    "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : "TauProject\/Tau4Mac\/"
+    "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : "TauProject\/Deps\/PureLayout\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Tau",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -25,6 +27,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TongKuo\/TauProject.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2D9AF23C98015B8E5AD30839E90AB9A7C5170B63"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PureLayout\/PureLayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585"
     }
   ]
 }
