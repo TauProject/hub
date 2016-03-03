@@ -7,3 +7,6 @@
 [submodule "Deps/CocoaLumberjack"]
 	path = Deps/CocoaLumberjack
 	url = https://github.com/CocoaLumberjack/CocoaLumberjack.git
+[submodule "Deps/GTL"]
+	path = Deps/GTL
+	url = https://github.com/google/google-api-objectivec-client.git
