@@ -10,9 +10,3 @@
 [submodule "Deps/GTL"]
 	path = Deps/GTL
 	url = https://github.com/google/google-api-objectivec-client.git
-[submodule "Deps/INAppStoreWindow"]
-	path = Deps/INAppStoreWindow
-	url = https://github.com/TongKuo/INAppStoreWindow.git
-[submodule "Deps/WAYWindow"]
-	path = Deps/WAYWindow
-	url = https://github.com/TongKuo/WAYWindow.git
