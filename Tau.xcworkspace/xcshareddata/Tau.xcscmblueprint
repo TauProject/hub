@@ -9,6 +9,7 @@
     "9D01D5BCCDE322646FEB1945347C3CF4E96976E3" : 0,
     "2D9AF23C98015B8E5AD30839E90AB9A7C5170B63" : 0,
     "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : 0,
+    "336CDBD9E1CDFE33BBA325DD45A570E8908345C7" : 0,
     "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : 0,
     "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : 0
   },
@@ -19,6 +20,7 @@
     "9D01D5BCCDE322646FEB1945347C3CF4E96976E3" : "TauProject\/Deps\/GTL\/Deps\/gtm-oauth2\/",
     "2D9AF23C98015B8E5AD30839E90AB9A7C5170B63" : "TauProject\/",
     "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : "TauProject\/Tau4Mac\/",
+    "336CDBD9E1CDFE33BBA325DD45A570E8908345C7" : "TauProject\/Deps\/INAppStoreWindow\/",
     "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : "TauProject\/Deps\/PureLayout\/",
     "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : "TauProject\/Deps\/CocoaLumberjack\/"
   },
@@ -35,6 +37,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TongKuo\/TauProject.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2D9AF23C98015B8E5AD30839E90AB9A7C5170B63"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/indragiek\/INAppStoreWindow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "336CDBD9E1CDFE33BBA325DD45A570E8908345C7"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CocoaLumberjack\/CocoaLumberjack.git",
