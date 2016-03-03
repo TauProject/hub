@@ -4,6 +4,7 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : 0,
     "D58DF7C3E72198199D1B65DDDAADD2A7790F9A98" : 0,
     "FAD0B99C3A0EB9F5EAC9FDFC4A76471FB31CBC6F" : 0,
     "9D01D5BCCDE322646FEB1945347C3CF4E96976E3" : 0,
@@ -12,10 +13,11 @@
     "C1421C99D055D3A535089DA2BBEC5EFC9A0200F0" : 0,
     "336CDBD9E1CDFE33BBA325DD45A570E8908345C7" : 0,
     "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : 0,
-    "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : 0
+    "B6DF82D20033F68B6001CEE5400F638E02CEDCDB" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9775E884-090B-4F85-BF7F-6BA9EE5CF515",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : "TauProject\/Deps\/CocoaLumberjack\/",
     "D58DF7C3E72198199D1B65DDDAADD2A7790F9A98" : "TauProject\/Deps\/GTL\/",
     "FAD0B99C3A0EB9F5EAC9FDFC4A76471FB31CBC6F" : "TauProject\/Deps\/GTL\/Deps\/gtm-session-fetcher\/",
     "9D01D5BCCDE322646FEB1945347C3CF4E96976E3" : "TauProject\/Deps\/GTL\/Deps\/gtm-oauth2\/",
@@ -24,7 +26,7 @@
     "C1421C99D055D3A535089DA2BBEC5EFC9A0200F0" : "TauProject\/Deps\/WAYWindow\/",
     "336CDBD9E1CDFE33BBA325DD45A570E8908345C7" : "TauProject\/Deps\/INAppStoreWindow\/",
     "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : "TauProject\/Deps\/PureLayout\/",
-    "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : "TauProject\/Deps\/CocoaLumberjack\/"
+    "B6DF82D20033F68B6001CEE5400F638E02CEDCDB" : "TauProject\/Deps\/OAuthSigningConstants\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Tau",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -54,6 +56,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/google\/gtm-oauth2.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9D01D5BCCDE322646FEB1945347C3CF4E96976E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gist.github.com\/9aea4d69fac1cf0ba27d.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B6DF82D20033F68B6001CEE5400F638E02CEDCDB"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TongKuo\/WAYWindow.git",
