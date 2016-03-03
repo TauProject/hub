@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:Tau4Mac/Tau4Mac.xcodeproj">
+   </FileRef>
 </Workspace>
