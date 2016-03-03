@@ -4,3 +4,6 @@
 [submodule "Deps/PureLayout"]
 	path = Deps/PureLayout
 	url = https://github.com/PureLayout/PureLayout.git
+[submodule "Deps/CocoaLumberjack"]
+	path = Deps/CocoaLumberjack
+	url = https://github.com/CocoaLumberjack/CocoaLumberjack.git
