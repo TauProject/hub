@@ -1,12 +1,15 @@
 [submodule "Tau4Mac"]
 	path = Tau4Mac
 	url = https://github.com/TongKuo/Tau4Mac.git
+	
 [submodule "Deps/PureLayout"]
 	path = Deps/PureLayout
 	url = https://github.com/PureLayout/PureLayout.git
+	
 [submodule "Deps/CocoaLumberjack"]
 	path = Deps/CocoaLumberjack
 	url = https://github.com/CocoaLumberjack/CocoaLumberjack.git
+	
 [submodule "Deps/GTL"]
 	path = Deps/GTL
 	url = https://github.com/google/google-api-objectivec-client.git
