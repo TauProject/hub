@@ -1,0 +1,3 @@
+[submodule "Tau4Mac"]
+	path = Tau4Mac
+	url = https://github.com/TongKuo/Tau4Mac.git
