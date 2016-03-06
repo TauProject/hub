@@ -16,3 +16,6 @@
 [submodule "Deps/OAuthSigningConstants"]
 	path = Deps/OAuthSigningConstants
 	url = https://gist.github.com/9aea4d69fac1cf0ba27d.git
+[submodule "Deps/KVOController"]
+	path = Deps/KVOController
+	url = https://github.com/facebook/KVOController.git
