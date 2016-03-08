@@ -19,3 +19,6 @@
 [submodule "Deps/KVOController"]
 	path = Deps/KVOController
 	url = https://github.com/facebook/KVOController.git
+[submodule "Deps/XCDYouTubeKit"]
+	path = Deps/XCDYouTubeKit
+	url = https://github.com/0xced/XCDYouTubeKit.git
