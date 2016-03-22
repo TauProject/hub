@@ -7,6 +7,7 @@
     "2D9AF23C98015B8E5AD30839E90AB9A7C5170B63" : 0,
     "C1421C99D055D3A535089DA2BBEC5EFC9A0200F0" : 0,
     "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : 0,
+    "791D9FCDB919317E32A8B1C62DBB3C4494E5C00B" : 0,
     "9D01D5BCCDE322646FEB1945347C3CF4E96976E3" : 0,
     "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : 0,
     "D58DF7C3E72198199D1B65DDDAADD2A7790F9A98" : 0,
@@ -22,6 +23,7 @@
     "2D9AF23C98015B8E5AD30839E90AB9A7C5170B63" : "TauProject\/",
     "C1421C99D055D3A535089DA2BBEC5EFC9A0200F0" : "TauProject\/Deps\/WAYWindow\/",
     "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : "TauProject\/Tau4Mac\/",
+    "791D9FCDB919317E32A8B1C62DBB3C4494E5C00B" : "TauProject\/Deps\/TAAdaptiveSpaceItem\/",
     "9D01D5BCCDE322646FEB1945347C3CF4E96976E3" : "TauProject\/Deps\/GTL\/Deps\/gtm-oauth2\/",
     "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : "TauProject\/Deps\/PureLayout\/",
     "D58DF7C3E72198199D1B65DDDAADD2A7790F9A98" : "TauProject\/Deps\/GTL\/",
@@ -60,6 +62,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CocoaLumberjack\/CocoaLumberjack.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TongKuo\/TAAdaptiveSpaceItem.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "791D9FCDB919317E32A8B1C62DBB3C4494E5C00B"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/google\/gtm-oauth2.git",
