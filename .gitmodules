@@ -22,3 +22,6 @@
 [submodule "Deps/XCDYouTubeKit"]
 	path = Deps/XCDYouTubeKit
 	url = https://github.com/0xced/XCDYouTubeKit.git
+[submodule "Deps/TAAdaptiveSpaceItem"]
+	path = Deps/TAAdaptiveSpaceItem
+	url = https://github.com/TongKuo/TAAdaptiveSpaceItem.git
