@@ -25,3 +25,6 @@
 [submodule "Deps/TAAdaptiveSpaceItem"]
 	path = Deps/TAAdaptiveSpaceItem
 	url = https://github.com/TongKuo/TAAdaptiveSpaceItem.git
+[submodule "Deps/LRNotificationObserver"]
+	path = Deps/LRNotificationObserver
+	url = https://github.com/TongKuo/LRNotificationObserver.git
