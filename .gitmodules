@@ -28,3 +28,6 @@
 [submodule "Deps/LRNotificationObserver"]
 	path = Deps/LRNotificationObserver
 	url = https://github.com/TongKuo/LRNotificationObserver.git
+[submodule "Deps/Sparkle"]
+	path = Deps/Sparkle
+	url = https://github.com/sparkle-project/Sparkle.git
