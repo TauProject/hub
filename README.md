@@ -20,9 +20,9 @@ Tau has been submitted to iTunes Connect and waiting for the reviews. There's a 
 
 ## Tau <3 OpenSource
 
-Check out the open source libraries used by Tau [here](Open source libraries used by Tau)
+Check out the open source libraries used by Tau [here](Open source libraries used by Tau).
 
-Contact Me:
+## Contact Me
 
 - Email: contact|-at-|tong-kuo.me (replace |-at-| with @)
 - Feel free to open an issue
