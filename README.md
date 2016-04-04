@@ -8,6 +8,14 @@ Features:
 - A native and beautiful stream player just like QuickTime on OS X
 - Supports signing in with your YouTube account to synchronize your footprint on YouTube 
 
+## Screenshots
+
+![screenshot-0](https://i.imgur.com/7BDofy4.png)
+![screenshot-1](https://i.imgur.com/24wyXs5.png)
+![screenshot-2](https://i.imgur.com/hN09RKF.png)
+![screenshot-3](https://i.imgur.com/l1WAjWD.png)
+![screenshot-4](https://i.imgur.com/xLWpUX2.png)
+
 Tau is designed to be very easy to use so give it a try! There's a lot room to add new features, so stay tuned.
 
 Contact Me:
