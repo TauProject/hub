@@ -20,7 +20,7 @@ Tau has been submitted to iTunes Connect and waiting for the reviews. There's a 
 
 ## Tau <3 OpenSource
 
-Check out the open source libraries used by Tau [here](Open source libraries used by Tau)(./Deps).
+Check out the open source libraries used by Tau [here](./Deps).
 
 ## Contact Me
 
