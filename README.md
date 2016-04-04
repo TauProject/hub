@@ -21,3 +21,4 @@ Tau has been submitted to iTunes Connect and waiting for the reviews. There's a 
 Contact Me:
 
 - Email: contact|-at-|tong-kuo.me (replace |-at-| with @)
+- Feel free to open an issue
