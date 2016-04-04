@@ -16,7 +16,7 @@ Features:
 ![screenshot-3](https://i.imgur.com/l1WAjWD.png)
 ![screenshot-4](https://i.imgur.com/xLWpUX2.png)
 
-Tau is designed to be very easy to use so give it a try! There's a lot room to add new features, so stay tuned.
+Tau has been submitted to iTunes Connect and waiting for the reviews. There's a lot room to add new features, so stay tuned.
 
 Contact Me:
 
