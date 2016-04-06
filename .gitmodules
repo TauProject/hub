@@ -31,3 +31,6 @@
 [submodule "Deps/Sparkle"]
 	path = Deps/Sparkle
 	url = https://github.com/sparkle-project/Sparkle.git
+[submodule "appcast"]
+	path = appcast
+	url = https://github.com/TauProject/appcast-feed.git
