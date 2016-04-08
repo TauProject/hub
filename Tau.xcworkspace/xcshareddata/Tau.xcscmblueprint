@@ -9,6 +9,7 @@
     "C1421C99D055D3A535089DA2BBEC5EFC9A0200F0" : 0,
     "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : 0,
     "791D9FCDB919317E32A8B1C62DBB3C4494E5C00B" : 0,
+    "979AA31D34F5259C317F6F7CCF1C6F792095A035" : 0,
     "9D01D5BCCDE322646FEB1945347C3CF4E96976E3" : 0,
     "EF1CF5E1F342919DE309B5C9DAEDDCF1D12D0402" : 0,
     "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : 0,
@@ -27,6 +28,7 @@
     "C1421C99D055D3A535089DA2BBEC5EFC9A0200F0" : "TauProject\/Deps\/WAYWindow\/",
     "2B15E43BCE5B8791FBFF3D805B9553E68250067A" : "TauProject\/Tau4Mac\/",
     "791D9FCDB919317E32A8B1C62DBB3C4494E5C00B" : "TauProject\/Deps\/TAAdaptiveSpaceItem\/",
+    "979AA31D34F5259C317F6F7CCF1C6F792095A035" : "TauProject\/Tau4Mac\/GuiKitsMainThreadGuard\/",
     "9D01D5BCCDE322646FEB1945347C3CF4E96976E3" : "TauProject\/Deps\/GTL\/Deps\/gtm-oauth2\/",
     "EF1CF5E1F342919DE309B5C9DAEDDCF1D12D0402" : "TauProject\/Deps\/Sparkle\/",
     "E6248D77DBBC6B1D6F6059D14C6A0B9ED1677585" : "TauProject\/Deps\/PureLayout\/",
@@ -76,6 +78,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TongKuo\/TAAdaptiveSpaceItem.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "791D9FCDB919317E32A8B1C62DBB3C4494E5C00B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gist.github.com\/e49fd8b5d97aae4b0710de4bce3c0cac.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "979AA31D34F5259C317F6F7CCF1C6F792095A035"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/google\/gtm-oauth2.git",

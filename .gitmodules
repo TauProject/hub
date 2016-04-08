@@ -34,3 +34,6 @@
 [submodule "appcast"]
 	path = appcast
 	url = https://github.com/TauProject/appcast-feed.git
+[submodule "Deps/GuiKitsMainThreadGuard"]
+	path = Deps/GuiKitsMainThreadGuard
+	url = https://gist.github.com/e49fd8b5d97aae4b0710de4bce3c0cac.git
