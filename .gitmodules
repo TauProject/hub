@@ -37,3 +37,6 @@
 [submodule "Deps/GuiKitsMainThreadGuard"]
 	path = Deps/GuiKitsMainThreadGuard
 	url = https://gist.github.com/e49fd8b5d97aae4b0710de4bce3c0cac.git
+[submodule "Deps/sqlite4tau"]
+	path = Deps/sqlite4tau
+	url = https://github.com/TauProject/sqlite4tau.git
